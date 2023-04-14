@@ -10,7 +10,7 @@ Este é um projeto que mostra as cidades de origem de alguns funcionários do Pr
   
 **Figma**  
   
-* [Link para o projeto no Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)  
+* [Link para o projeto no Figma](https://www.figma.com/file/SmvybPiUMHqeIxrAsOU8DC/Web_Brief_Sprint_3_PT-%7C-De-P%C3%A1tria-para-P%C3%A1tria-%7C-desktop-%2B-mobile?node-id=0-1&t=5MlnD5OdNPYmyGDV-0)  
   
 **Imagens**  
   
