@@ -1,0 +1,11 @@
+.place {
+  display: grid;
+  grid-template-areas:
+    "title website"
+    "image text"
+    ". text"
+    "button text";
+  grid-template-columns: 1fr 1.05fr;
+  column-gap: 40px;
+  row-gap: 48px;
+}
