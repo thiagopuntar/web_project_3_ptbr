@@ -3,3 +3,9 @@
   text-align: center;
   margin: 0;
 }
+
+@media screen and (max-width: 600px) {
+  .cover__subtitle {
+    font-size: 14px;
+  }
+}

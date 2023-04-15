@@ -4,3 +4,16 @@
   text-align: center;
   margin: 0 auto 64px;
 }
+
+@media screen and (max-width: 1024px) {
+  .header__subtitle {
+    margin-bottom: 100px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .header__subtitle {
+    font-size: 16px;
+    margin-bottom: 40px;
+  }
+}

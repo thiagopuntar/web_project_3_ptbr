@@ -8,3 +8,16 @@
   box-sizing: border-box;
   padding-bottom: 92px;
 }
+
+@media screen and (max-width: 1024px) {
+  .photo-grid {
+    padding-inline: 24px;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .photo-grid {
+    grid-template-columns: 1fr;
+  }
+}

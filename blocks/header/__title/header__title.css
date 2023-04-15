@@ -5,3 +5,16 @@
   line-height: 1.05;
   margin: 90px auto 32px;
 }
+
+@media screen and (max-width: 1024px) {
+  .header__title {
+    margin-bottom: 100px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .header__title {
+    font-size: 40px;
+    margin-bottom: 60px;
+  }
+}
